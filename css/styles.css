@@ -113,7 +113,12 @@ body {
 }
 
 .portfolio {
-    background-color:#E7E9FC
+    color:#2E2F42
+}
+
+.portfolio-item {
+    border: solid 1px #E7E9FC;
+    text-align: left;
 }
 
 .portfolio-application {
@@ -121,9 +126,10 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 2px;
-    text-align: left;
+ 
 }
 
-.footer {
+footer {
     background-color: #2E2F42;
+    text-align: left;
 }
