@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto';
+    color: #2E2F42;
+}
+
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 3px;
+    text-align: left;
+}
+
+.logo-accent {
+    color: #4D5AE5;
+}
