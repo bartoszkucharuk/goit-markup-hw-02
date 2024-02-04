@@ -1,6 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    color: inherit;
+}
+
 body {
-    font-family: 'Roboto';
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #434455;
+}
+
+
+.header-nav {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 2px;
     color: #2E2F42;
+    text-align: left;
+
+
 }
 
 .logo {
@@ -9,9 +34,80 @@ body {
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 3px;
-    text-align: left;
+
 }
 
 .logo-accent {
     color: #4D5AE5;
+}
+
+.address {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    color: #434455;
+}
+
+.hero-banner {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.071;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+    background-color: #2E2F42;
+}
+
+.hero-button {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 4px;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    border-color: inherit;
+    border-radius: 4px;
+
+}
+
+.features {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    color: #434455;
+}
+
+.features-header {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    color: #2E2F42;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-item {
+    background-color: #FFFFFF;
+}
+
+.team-name {
+    font-size:20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.team-description {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #2E2F42;
 }
