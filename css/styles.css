@@ -111,3 +111,19 @@ body {
     text-align: center;
     color: #2E2F42;
 }
+
+.portfolio {
+    background-color:#E7E9FC
+}
+
+.portfolio-application {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+.footer {
+    background-color: #2E2F42;
+}
