@@ -16,6 +16,17 @@ body {
     color: #434455;
 }
 
+a:hover,
+a:focus {
+    color: #404bbf;
+    cursor: pointer;
+}
+
+button:hover,
+button:focus {
+    background-color: #404bbf;
+    cursor: pointer;
+}
 
 .header-nav {
     font-size: 16px;
@@ -170,5 +181,9 @@ footer {
 
 footer .logo {
 color: #f4f4f4;
+}
 
+footer .logo:hover,
+footer .logo:focus {
+color: #404bbf;
 }
