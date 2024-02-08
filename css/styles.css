@@ -40,18 +40,18 @@ button:focus {
 }
 
 .logo {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color:#2e2f42;
+    color:#4D5AE5;
     text-transform: uppercase;
 
 }
 
-.logo-accent {
-    color: #4D5AE5;
+span {
+    color: #2e2f42;
 }
 
 .address {
