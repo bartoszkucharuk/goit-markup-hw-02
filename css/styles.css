@@ -45,13 +45,13 @@ button:focus {
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color:#4D5AE5;
+    color:#2e2f42;
     text-transform: uppercase;
 
 }
 
-span {
-    color: #2e2f42;
+.logo-accent {
+    color: #4D5AE5;
 }
 
 .address {
@@ -170,7 +170,8 @@ span {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
+/* 
+ 
 footer {
     font-weight: 400;
     font-size: 16px;
@@ -187,4 +188,4 @@ color: #f4f4f4;
 footer .logo:hover,
 footer .logo:focus {
 color: #404bbf;
-}
+} */
