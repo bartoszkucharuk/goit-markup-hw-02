@@ -93,12 +93,12 @@ button:focus {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.features>h2 {
-    font-size: 20px;
+.features-header {
     font-weight: 500;
+    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: red;
 }
 
 .team {
