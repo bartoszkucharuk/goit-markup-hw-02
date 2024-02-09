@@ -172,9 +172,8 @@ button:focus {
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* 
  
-footer {
+.footer {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.50;
@@ -190,4 +189,4 @@ color: #f4f4f4;
 footer .logo:hover,
 footer .logo:focus {
 color: #404bbf;
-} */
+}
