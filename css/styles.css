@@ -93,7 +93,7 @@ button:focus {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.features h2 {
+.features>h2 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
