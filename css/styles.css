@@ -64,13 +64,16 @@ button:focus {
 }
 
 .hero {
+    color: #FFFFFF;
+    background-color: #2E2F42;
+    text-align: center;
+}
+
+.hero-banner {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: #FFFFFF;
-    background-color: #2E2F42;
-    text-align: center;
 }
 
 .hero-button {
