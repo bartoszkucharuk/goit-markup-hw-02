@@ -183,8 +183,8 @@ button:focus {
     background-color: #2e2f42;
 }
 
-footer .logo {
-color: #f4f4f4;
+footer span {
+    color: ##f4f4fd;
 }
 
 footer .logo:hover,
