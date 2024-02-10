@@ -47,10 +47,9 @@ button:focus {
     letter-spacing: 0.03em;
     color:#4d5ae5;
     text-transform: uppercase;
-
 }
 
-.span-accent {
+span {
     color: #2e2f42;
 }
 
