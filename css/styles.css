@@ -179,12 +179,12 @@ button:focus {
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
     background-color: #2e2f42;
 }
 
-.footer-span {
-    color: ##f4f4fd;
+.footer-span,
+.footer-text {
+    color: #f4f4fd;
 }
 
 footer .logo:hover,
