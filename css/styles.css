@@ -48,10 +48,12 @@ button:focus {
     color:#4d5ae5;
     text-transform: uppercase;
 }
-
-.header-main>span {
+ /* problem- kolor znacznika (brak akcptacji przez autosprawdzanie) */
+.header-main span {
     color: #2e2f42;
 }
+
+
 
 .address {
     font-size: 16px;
