@@ -49,7 +49,7 @@ button:focus {
     text-transform: uppercase;
 }
 
-span {
+.header-main>span {
     color: #2e2f42;
 }
 
