@@ -1,7 +1,7 @@
 * {
     margin: 0;
-    padding: 0;
-    border: 0;
+    /* padding: 0; */
+    /* border: 0; */
     text-decoration: none;
     color: inherit;
 }
@@ -11,7 +11,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #434455;
     background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
@@ -35,7 +35,6 @@ button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    text-align: left;
 }
 
 
@@ -67,7 +66,7 @@ button:focus {
 .hero {
     color: #FFFFFF;
     background-color: #2E2F42;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .hero-banner {
@@ -84,7 +83,7 @@ button:focus {
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
-    border-color: inherit;
+    /* border-color: inherit; */
 }
 
 .features {
@@ -112,7 +111,7 @@ button:focus {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
+    /* text-align: center; */
     color: #2e2f42;
 
 }
@@ -125,7 +124,7 @@ button:focus {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #2E2F42;
 }
 
@@ -134,7 +133,7 @@ button:focus {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #434455;
 }
 
@@ -148,13 +147,12 @@ button:focus {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
+    /* text-align: center; */
     color: #2E2F42;
 }
 
 .portfolio-item {
-    border: solid 1px #E7E9FC;
-    text-align: left;
+    /* border: solid 1px #E7E9FC; */
 }
 
 .portfolio-application {
