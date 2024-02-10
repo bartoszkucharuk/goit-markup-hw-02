@@ -182,12 +182,14 @@ button:focus {
     background-color: #2e2f42;
 }
 
-.footer-span,
-.footer-text {
+.footer-span {
     color: #f4f4fd;
 }
 
-footer .logo:hover,
-footer .logo:focus {
+.footer-text {
+    color: #f4f4fd;}
+
+footer a:hover,
+footer a:focus {
 color: #404bbf;
 }
