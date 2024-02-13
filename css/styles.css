@@ -4,6 +4,10 @@
     color: inherit;
 }
 
+ul {
+list-style: none;
+}
+
 body {
     font-size: 18px;
     font-weight: 400;
