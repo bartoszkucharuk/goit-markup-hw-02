@@ -70,6 +70,7 @@ button:focus {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .hero-button {
@@ -109,6 +110,7 @@ button:focus {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    text-align: center;
 
 }
 .team-item {
@@ -142,6 +144,7 @@ button:focus {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    text-align: center;
 }
 
 .portfolio-item {
